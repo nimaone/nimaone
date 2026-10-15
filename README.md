@@ -3,12 +3,12 @@
 
 <p align="center">
   Based in Hamadan, Iran · open to remote ·
-  <a href="https://nima.one">nima.one</a>
+  <a href="https://nimaone.github.io/">nimaone.github.io</a>
 </p>
 
 <p align="center">
   <a href="mailto:nimabaselizadeh@gmail.com"><img src="https://img.shields.io/badge/Email-nimabaselizadeh%40gmail.com-2E3850?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://nima.one"><img src="https://img.shields.io/badge/Website-nima.one-2E3850?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://nimaone.github.io/"><img src="https://img.shields.io/badge/Website-nimaone.github.io-2E3850?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
   <a href="https://linkedin.com/in/nima%20baselizadeh"><img src="https://img.shields.io/badge/LinkedIn-nima%20baselizadeh-2E3850?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/nimaone111"><img src="https://img.shields.io/badge/X-nimaone111-2E3850?style=flat-square&logo=x&logoColor=white" alt="X"></a>
   <a href="https://t.me/nimaone"><img src="https://img.shields.io/badge/Telegram-nimaone-2E3850?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
