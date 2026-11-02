@@ -29,7 +29,7 @@ with a growing focus on generative AI, large language models and multi-modal sys
 | [**ParSiGo**](https://github.com/nimaone/persian_tts) | Offline Persian text-to-speech with voice cloning; ONNX build that runs without PyTorch | [![stars](https://img.shields.io/github/stars/nimaone/persian_tts?logo=github&style=flat-square&label=%20&color=2E3850&cacheSeconds=3600)](https://github.com/nimaone/persian_tts/stargazers) |
 | [**DikteYar**](https://github.com/nimaone/persian-whisper-flow) | Offline Persian speech dictation for Windows, one global hotkey | [![stars](https://img.shields.io/github/stars/nimaone/persian-whisper-flow?style=flat-square&label=%20&logo=github&color=2E3850)](https://github.com/nimaone/persian-whisper-flow/stargazers) |
 | [**PelakGuard**](https://www.pelakgard.ir/) | Real-time license-plate detection, masking &amp; reading (live product) | [![site](https://img.shields.io/badge/live-pelakgard.ir-2E3850?style=flat-square&logo=googlechrome&logoColor=white)](https://www.pelakgard.ir/) |
-| [**DocQAI**](https://github.com/nimaone1/DocQAI) | Local RAG question-answering over Persian pharmaceutical references | [![repo](https://img.shields.io/badge/repo-DocQAI-2E3850?style=flat-square&logo=github&logoColor=white)](https://github.com/nimaone1/DocQAI) |
+| [**DocQAI**](https://github.com/nimaone/DocQAI) | Local RAG question-answering over Persian pharmaceutical references | [![repo](https://img.shields.io/badge/repo-DocQAI-2E3850?style=flat-square&logo=github&logoColor=white)](https://github.com/nimaone1/DocQAI) |
 
 ### Résumé
 
